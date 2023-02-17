@@ -992,7 +992,7 @@ padding-left: 100px;
 padding-right: 100px;
 padding-top: 150px;
 padding-bottom: 150px;
-background-color: #fff9f3;
+background-color: #fff9f3ff;
 flex-direction: column;
 align-items: center;
 }
@@ -1002,6 +1002,7 @@ width: 100%;
 justify-content: space-between;
 align-items: center;
 padding-bottom: 30px;
+background-color: #fff9f3;
 }
 .p-Home.Div109 {
 ;
