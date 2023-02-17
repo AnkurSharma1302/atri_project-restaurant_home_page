@@ -1340,7 +1340,7 @@ const desktopModeProps = {
     },
     "Button10": {
       "custom": {
-        "text": "Submit"
+        "text": "Join our team"
       },
       "callbacks": {
         "onClick": [
